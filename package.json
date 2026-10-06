@@ -1,0 +1,23 @@
+{
+  "name": "aea6-sara-raul",
+  "version": "1.0.0",
+  "description": "Projecte de pràctiques de Git i GitHub en parella, de l'AEA6 del mòdul M0614.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparedesdaw2n26-ship-it/aea6-Sara-Raul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparedesdaw2n26-ship-it/aea6-Sara-Raul/issues"
+  },
+  "homepage": "https://github.com/sparedesdaw2n26-ship-it/aea6-Sara-Raul#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
