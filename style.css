@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: #F6F8FB;
+  color: #1A2230;
+}
+header nav a {
+  margin-right: 1rem;
+  color: #E07B1E;
+  text-decoration: none;
+}
+footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+  color: #E07B1E;
+}
